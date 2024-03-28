@@ -1,0 +1,17 @@
+.header{
+    margin-top:45px;
+   
+}
+
+.header__image{
+    max-width:880;
+    max-height:74px;
+
+}
+
+.header__line{
+   margin: 53px 0 53px 0 ;
+   max-width: 880px;
+
+}
+
