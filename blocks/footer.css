@@ -1,3 +1,8 @@
-footer__image{
-    background-color: #000;
+.footer{
+    color: #545454;
+    font-family:"Inter";
+    margin-top: 67px;
+    margin-right:762px;
+    max-width: 318px;
+
 }

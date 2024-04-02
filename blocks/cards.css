@@ -4,6 +4,7 @@
     font-size: 24px;
     font-weight: 900px;
     line-height: 29px;
+    
 }
 
 .card__list{
@@ -15,13 +16,13 @@ padding:0;
 margin:0;
 
 
+
 }
 
 .card{
 display: flex;
 flex-direction: column;
 list-style: none;
-border-radius: 10px 10px 0px 0px;
 opacity: 0px;
 
 }
@@ -52,6 +53,7 @@ border-radius: 10% 10% 0 0;
     text-align: left;
     height:29px;
     border-radius: 0 0 10% 10%;
+    font-weight: small;
 
 
 }
