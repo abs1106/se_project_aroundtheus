@@ -1,29 +1,4 @@
-/*footer{
-    margin-left:180px;
 
-}
-.footer__stamp{
-    margin: 67px auto 60px auto;
-    color: #545454;
-    font-family: Inter, Arial, Helvetica, sans-serif;
-    line-height: 22px;
-    font-size: 18px;
-    font-weight: 400;
-}
-
-
-@media screen and (max-width: 930px) and (max-width: 621px) {
-   
-    .footer {
-      margin: 0;
-      
-    }
-    .footer__stamp{
-        font-size: 14px;
-        line-height: 17px;
-        margin: 48px 19px 36px 19px;
-    }
-  }*/
 
   .footer__copyright {
     margin: 67px auto 60px auto;
