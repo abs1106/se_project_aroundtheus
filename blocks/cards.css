@@ -1,4 +1,4 @@
-.cards{
+/*.cards{
     margin-top: 30px;
     font-family: "Inter";
     font-size: 24px;
@@ -7,65 +7,27 @@
     
 }
 
-.card__list{
+.cards__list{
+    color:#fff ;
 display:grid;
 justify-content: center;
 grid-template-columns: repeat(auto-fit, 282px);
 grid-gap:20px 17px;
 padding:0;
-margin:0;
+margin: 36px 0 0;
+list-style-type: none;
+}*/
 
 
-
-}
-
-.card{
-display: flex;
-flex-direction: column;
-list-style: none;
-opacity: 0px;
-
-}
-
-.card__image{
-height:282px;
-width:282px;
-border-radius: 10% 10% 0 0;
-}
-
-.card__description{
-    display: flex;
-    background-color: #fff;
-    color:#000;
-    padding-top:25px ;
-    padding-bottom: 25px;
-    padding-left:20px;
-    padding-right: 20px;
-    align-items: center;
-    justify-content: space-between;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
-    font-family: "Inter";
-    font-size: 24px;
-    font-weight: 900;
-    line-height: 29.05px;
-    text-align: left;
-    height:29px;
-    border-radius: 0 0 10% 10%;
-    font-weight: small;
-
-
-}
-
-.card__like-button{
-    background: transparent url(../images/OMG.svg) center no-repeat;
-    width: 25px;
-    height:18px;
-    border: none;
-}
-
-.card__like-button:hover{
-    opacity:50%;
-
-}
+.cards {
+    margin-top: 30px;
+  }
+  .cards__list {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fit, 282px);
+    grid-gap: 20px 17px;
+    padding: 0;
+    margin: 36px 0 0;
+    list-style-type: none;
+  }
