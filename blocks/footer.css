@@ -5,9 +5,11 @@
     line-height: 22px;
     font-size: 18px;
     font-weight: 400;
+    
   }
   .footer {
     margin-left: 180px;
+    width: 318px;
   }
   
   @media screen and (max-width: 930px) and (max-width: 621px) {

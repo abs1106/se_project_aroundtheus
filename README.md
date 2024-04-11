@@ -19,3 +19,12 @@ This project is made so all the elements are displayed correctly on popular scre
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
   
 Good luck and have fun!
+
+**Link to github pages **
+
+https://abs1106.github.io/se_project_aroundtheus/
+
+
+**Project Around the U.S.**
+
+Project Around the U.S. is about a famous oceanographer Jaques Cousteau. This project was set to solidify my skills in using basic HTML and CSS code such as Flexbox and setting elements in the correct orientation. In this project, I was able to utilize grid and the media at-rule and Figma. This project was equally challenging and entertaining to complete. 
