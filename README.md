@@ -24,6 +24,10 @@ Good luck and have fun!
 
 https://abs1106.github.io/se_project_aroundtheus/
 
+**Link to my Intro Video**
+
+https://www.loom.com/share/002717de6a9948ea89730e1490c92f42?sid=30cbd801-d725-4090-adcb-31e9ee18eaa3
+
 
 **Project Around the U.S.**
 
