@@ -30,7 +30,7 @@
           </div>
           <button class="profile__add-button" type="button"></button>
         </section>
-        <section class="cards page__section">
+         <section class="cards page__section">
           <ul class="cards__list">
             <li class="card">
               <img
@@ -95,7 +95,7 @@
               />
               <div class="card__description">
                 <h2 class="card__text">Lago di Braies</h2>
-                <button class="card__like-button" type="button"></button>
+                <button class="card__like-button" type="button"></button> 
               </div>
             </li>
           </ul>
@@ -104,6 +104,22 @@
       <footer class="footer">
         <p class="footer__copyright">&copy; 2024 Around The U.S.</p>
       </footer>
+    </div>
+
+    <div class="modal modal_opened">
+      <div class="modal__container">
+        <button class="modal__close"></button> 
+        <form class="modal__form">
+          <p class="modal__heading">Edit Profile</p>
+          <input  class="modal__input" type="text" name="title" placeholder="Jacques Cousteau">
+          <img src="./images/Line 2.1.svg" class="modal__line"/>
+          <input  class="modal__input"   type="text" name="description" placeholder="Explorer">
+          <img  src="./images/Line 2.1.svg" class="modal__line"/>
+          <button class="modal__button"> Save</button>
+          
+        </form>
+        
+      </div>
     </div>
     <script src="./scripts/index.js"></script>
   </body>
